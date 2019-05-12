@@ -26,7 +26,7 @@ def display_menu():
 
 def list(movie_list):
         if len(movie_list)==0:
-            print "ther eno movies in the list"
+            print "There are no movies in the list"
             return
         else:
             i=1
